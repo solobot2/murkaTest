@@ -1239,7 +1239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6db958a4aaf6b14eb81c7925a7d9c6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialTime: 30
+  initialTime: 10
   timeToSubstractByRound: 0.5
   currentRound: 0
   currentRoundFigureNum: 0
@@ -1473,7 +1473,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1641766400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9, y: 4, z: 1}
+  m_LocalPosition: {x: 9, y: 4, z: 19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
